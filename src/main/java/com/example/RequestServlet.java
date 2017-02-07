@@ -18,7 +18,7 @@ public class RequestServlet extends HttpServlet {
 		out.println("<!DOCTYPE html>");
 		out.println("<html lang=\"ko\">");
 		out.println("	<body>");
-		out.println("		<h1>Hello Request/Response!!</h1>");
+		out.println("		<h1>Hello Request/Response!!!</h1>");
 		out.println("	</body>");
 		out.println("</html>");
 	}
